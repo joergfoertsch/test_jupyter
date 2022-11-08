@@ -1,0 +1,7 @@
+name: example-env
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - matplotlib
+  - scipy
